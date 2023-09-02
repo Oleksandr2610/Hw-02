@@ -28,17 +28,17 @@ button {
 }
 
 .lii {
-    color: var(--NAVY-BLUE, #2E2F42);
-    font-family: "Roboto",sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.32px;
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
 }
 
-    .posul {
-     color: #2e2f42 ;   
-    }
+.posul {
+  color: #2e2f42;
+}
 
 .navigation {
   color: #404bbf;
@@ -49,57 +49,62 @@ button {
   font-style: normal;
 }
 
+.main-adres {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .heder {
   color: #404bbf;
 }
 .section {
-    background-color: #2e2f42;
+  background-color: #2e2f42;
 }
 .zagol {
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
 .button {
-    background-color: #4D5AE5;
-    font-family: "Roboto",sans-serif;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
 }
 .main-page {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2E2F42;
+  color: #2e2f42;
 }
 .zagol2 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .paragraf {
-    line-height: 1.5;
-    letter-spacing: 0.02;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .section2 {
-    background-color: #F4F4FD;
-
+  background-color: #f4f4fd;
 }
 .zagol3 {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2E2F42;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .lii2 {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
