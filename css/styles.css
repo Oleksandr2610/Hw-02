@@ -36,13 +36,8 @@ button {
     letter-spacing: 0.32px;
 }
 
-    .lii {
-        color: var(--NAVY-BLUE, #2E2F42);
-font-family: Roboto;
-font-size: 16px;
-font-weight: 500;
-line-height: 24px; /* 150% */
-letter-spacing: 0.32px;
+    .posul {
+     color: #2e2f42 ;   
     }
 
 .navigation {
@@ -56,4 +51,48 @@ letter-spacing: 0.32px;
 
 .heder {
   color: #404bbf;
+}
+.section {
+    background-color: #2e2f42;
+}
+.zagol {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.button {
+    background-color: #4D5AE5;
+    font-family: "Roboto";
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+.zagol2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.paragraf {
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+.section2 {
+    background-color: #F4F4FD;
+
+}
+.zagol3 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+.lii2 {
+    background-color: #ffffff;
 }
