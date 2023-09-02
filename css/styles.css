@@ -1,35 +1,59 @@
 .body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #ffffff
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 
+a {
+  text-decoration-line: none;
+}
+ul {
+  list-style-type: none;
+}
+button {
+  font-family: none;
+}
 .logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .studio {
-    color: #2e2f42;
+  color: #2e2f42;
 }
 
-.ull {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    color: #404bbf;
+.lii {
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
 }
+
+    .lii {
+        color: var(--NAVY-BLUE, #2E2F42);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+    }
 
 .navigation {
-    color: #404bbf;
-    font-weight: 500;
+  color: #404bbf;
+  font-weight: 500;
+}
+
+.adres {
+  font-style: normal;
 }
 
 .heder {
-    color: #404bbf;
+  color: #404bbf;
 }
