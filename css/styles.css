@@ -3,6 +3,15 @@
   color: #434455;
   background-color: #fff;
 }
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+button {
+  font-family: inherit;
+}
 .header {
   flex-shrink: 0;
 }
